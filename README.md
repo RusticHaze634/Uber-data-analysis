@@ -1,6 +1,6 @@
 # Uber-data-analysis
-Data analysis and visualization  
-         |[Click here for the code](https://www.kaggle.com/code/diplod0cus/uber-data-analysis-1)|
+### Uber Data Analysis : Case Study 1   
+| [Click here for the code](https://www.kaggle.com/code/diplod0cus/uber-data-analysis-1) |   
 ![image](https://user-images.githubusercontent.com/38161827/193102369-6e113f10-54b0-40ea-a311-1bdc714f3e44.png)
 
 <a id="top"></a>
