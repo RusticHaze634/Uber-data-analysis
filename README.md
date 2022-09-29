@@ -3,6 +3,18 @@
 | [Click here for the code](https://www.kaggle.com/code/diplod0cus/uber-data-analysis-case-study-1) |   
 ![image](https://user-images.githubusercontent.com/38161827/193102369-6e113f10-54b0-40ea-a311-1bdc714f3e44.png)
 
+#### Dataset details: 
+Dataset name : [My Uber Drives (2016)](https://www.kaggle.com/datasets/zusmani/uberdrives)  
+
+Contents:
+- Geography: USA, Sri Lanka and Pakistan
+- Time period: January - December 2016
+- Unit of analysis: Drives
+- Total Drives: 1,155
+- Total Miles: 12,204
+- contains Start Date, End Date, Start Location, End Location, Miles Driven and Purpose of drive (Business, Personal, Meals, Errands, Meetings, Customer Support etc.)
+- Aim : To learn from the behavior of an ordinary Uber customer.
+
 <a id="top"></a>
 <div class="list-group" id="list-tab" role="tablist">
 <h3 class="list-group-item list-group-item-action active" data-toggle="list" role="tab" aria-controls="home">  Table of Content</h3>
