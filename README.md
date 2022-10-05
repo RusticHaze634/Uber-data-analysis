@@ -44,3 +44,38 @@ Dataset Contents:
         * [15. When was the Max no. of Trips in a day generally?](#21)
         * [16. Speed](#22)
    * [Save the Result](#23)
+   
+  #### Answers 
+  * [1. Top 10 starting location]()  
+  
+    ![image](https://user-images.githubusercontent.com/38161827/194129634-1b5f6ebb-e60f-4325-b7d9-89d7cd9bc44d.png)
+  * [2. Which was the most Frequent Starting Point?](#8)
+  
+  ![image](https://user-images.githubusercontent.com/38161827/194130041-705c2dd7-e19b-4a2e-8c70-45f3f6226eba.png)
+
+  * [3. Top 10 STOP locations](#9)
+  
+  ![image](https://user-images.githubusercontent.com/38161827/194130066-7fcd86f0-48d9-4cd6-becc-25459cff9720.png)
+
+  * [4. Which was the most Frequent Stopping Point?](#10)
+  
+  ![image](https://user-images.githubusercontent.com/38161827/194130092-f5aee88d-7098-4890-b2db-f470a15e7195.png)
+
+  * [5. What is the number of trips per month?](#11)
+  
+  ![image](https://user-images.githubusercontent.com/38161827/194130191-efc98d18-dbb2-46da-812a-02651b3a0676.png)
+
+  * [6. What is the number of trips per day? ](#12)
+  
+  ![image](https://user-images.githubusercontent.com/38161827/194130215-bd1fbdea-83cb-4c67-87b7-26e5b040f35b.png)
+
+  * [7. How many trips for each purpose?](#13)
+  * [8. How many trips in any particular day of all months (Category-wise) ?](#14)
+  * [9. How many trips in any weekday?](#15)
+  * [10. Is there any Round Trip? If, Yes, then How many Round Trips?](#16)
+  * [11. Calculate Ride durations and Analyse](#17)
+  * [12. Show Month-wise number of Uber Rides](#18)
+  * [13. At which day uber rides were mostly used?](#19)
+  * [14. Which was the Longest and the Shorest Ride Months (Based on Average Distance covered per month)?](#20)
+  * [15. When was the Max no. of Trips in a day generally?](#21)
+  * [16. Speed](#22)
