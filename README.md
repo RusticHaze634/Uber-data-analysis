@@ -70,12 +70,39 @@ Dataset Contents:
   ![image](https://user-images.githubusercontent.com/38161827/194130215-bd1fbdea-83cb-4c67-87b7-26e5b040f35b.png)
 
   * [7. How many trips for each purpose?](#13)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214121-2df55aeb-e6eb-47f2-b062-01e4a9194d10.png)
+
   * [8. How many trips in any particular day of all months (Category-wise) ?](#14)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214153-2c767cb7-d040-485a-8a96-4f21ec0f6249.png)
+
   * [9. How many trips in any weekday?](#15)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214174-afc9beaf-20ca-4aca-a64a-21ef32f5fe48.png)
+
   * [10. Is there any Round Trip? If, Yes, then How many Round Trips?](#16)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214209-8c01b864-8b89-4954-90e1-7e9a7e535d15.png)
+
   * [11. Calculate Ride durations and Analyse](#17)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214302-4b1dfab3-4be3-4611-b01c-1495a9982599.png)
+
   * [12. Show Month-wise number of Uber Rides](#18)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214323-3112e42c-6939-4a9f-875d-fc11dbde23a1.png)
+
   * [13. At which day uber rides were mostly used?](#19)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214349-f474ff38-bbe4-49aa-b3ab-1ef62f1dfd29.png)
+
   * [14. Which was the Longest and the Shorest Ride Months (Based on Average Distance covered per month)?](#20)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214383-2c236adc-06be-45b7-ba70-903d831cdbc8.png)
+
   * [15. When was the Max no. of Trips in a day generally?](#21)
+    
+    ![image](https://user-images.githubusercontent.com/38161827/194214405-02e8bd00-f081-482f-9e29-470da7d04667.png)
+
   * [16. Speed](#22)
