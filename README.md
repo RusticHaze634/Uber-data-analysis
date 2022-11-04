@@ -106,3 +106,9 @@ Dataset Contents:
     ![image](https://user-images.githubusercontent.com/38161827/194214405-02e8bd00-f081-482f-9e29-470da7d04667.png)
 
   * [16. Speed](#22)
+  
+  - Every city has a speed limit. Speed limit visualisation?
+  Higher speed limit in a city---more frequent stops--- low traffic--- More fuel savings
+  - Calculation: Related cities and their highest speed and lowest 
+  - Introduce a column .
+  - 
